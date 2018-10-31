@@ -1,0 +1,54 @@
+
+            body {
+             background:floralwhite;
+             color:black;
+            } 
+            h1 {
+                color: black;
+            }
+            h2,h3 {
+                color:black;border: groove
+            }
+
+#container {
+    width: 90%;
+    margin: 0 auto;
+    background:navajowhite;
+}
+section
+{
+    width:45%; }
+
+    .ingredient {
+        border border-right: 1px blacksolid; 
+    }
+.step {
+    float: right
+}
+footer {
+    clear: both
+}
+
+ table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    float: ;left: 
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+image{
+    position: border: 2cm border-style:inherit color;green
+}
+
